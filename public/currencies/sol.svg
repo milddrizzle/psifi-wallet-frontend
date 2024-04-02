@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 200 200" style="enable-background:new 0 0 200 200;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);}
+	.st1{fill:url(#SVGID_00000145770282514468657000000009838315393949340085_);}
+	.st2{fill:url(#SVGID_00000174570412809365644800000009231780269280032190_);}
+</style>
+<path d="M100,200c55.2,0,100-44.8,100-100S155.2,0,100,0S0,44.8,0,100S44.8,200,100,200z"/>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="148.9117" y1="239.8127" x2="82.6019" y2="366.8228" gradientTransform="matrix(1 0 0 1 0 -198)">
+	<stop  offset="0" style="stop-color:#00FFA3"/>
+	<stop  offset="1" style="stop-color:#DC1FFF"/>
+</linearGradient>
+<path class="st0" d="M59.5,124.9c0.7-0.7,1.7-1.1,2.8-1.1h95.8c1.8,0,2.6,2.1,1.4,3.4l-18.9,18.9c-0.7,0.7-1.7,1.1-2.8,1.1H41.9
+	c-1.8,0-2.6-2.1-1.4-3.4L59.5,124.9z"/>
+<linearGradient id="SVGID_00000182488695895484441530000004647066129067300741_" gradientUnits="userSpaceOnUse" x1="119.92" y1="224.6766" x2="53.6101" y2="351.6866" gradientTransform="matrix(1 0 0 1 0 -198)">
+	<stop  offset="0" style="stop-color:#00FFA3"/>
+	<stop  offset="1" style="stop-color:#DC1FFF"/>
+</linearGradient>
+<path style="fill:url(#SVGID_00000182488695895484441530000004647066129067300741_);" d="M59.5,54.3c0.8-0.7,1.8-1.1,2.8-1.1h95.8
+	c1.8,0,2.6,2.1,1.4,3.4l-18.9,18.9c-0.7,0.7-1.7,1.1-2.8,1.1H41.9c-1.8,0-2.6-2.1-1.4-3.4L59.5,54.3z"/>
+<linearGradient id="SVGID_00000149369752544400670780000009137218509003329188_" gradientUnits="userSpaceOnUse" x1="134.323" y1="232.1962" x2="68.0131" y2="359.2062" gradientTransform="matrix(1 0 0 1 0 -198)">
+	<stop  offset="0" style="stop-color:#00FFA3"/>
+	<stop  offset="1" style="stop-color:#DC1FFF"/>
+</linearGradient>
+<path style="fill:url(#SVGID_00000149369752544400670780000009137218509003329188_);" d="M140.5,89.4c-0.7-0.7-1.7-1.1-2.8-1.1H41.9
+	c-1.8,0-2.6,2.1-1.4,3.4l18.9,18.9c0.7,0.7,1.7,1.1,2.8,1.1h95.8c1.8,0,2.6-2.1,1.4-3.4L140.5,89.4z"/>
+</svg>
