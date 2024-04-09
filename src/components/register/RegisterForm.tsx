@@ -106,12 +106,7 @@ const RegisterForm: FC<RegisterFormProps> = ({}) => {
       password: data.password,
     };
 
-    const imgRes = await fetch(selectedImage as string);
-    const blob = await imgRes.blob();
-    const imageFile = new File([blob], "image.png", { type: blob.type });
-    const imageLink = await pinFileToIPFS(imageFile);
-
-    formData["profileImage"] = imageLink;
+    formData["profileImage"] = selectedImage;
 
     await fetch(process.env.NEXT_PUBLIC_BACKEND_API_URL as string, {
       method: "POST",
