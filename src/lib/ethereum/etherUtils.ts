@@ -1,7 +1,7 @@
 import { ethers, FeeData } from "ethers";
 import { evmTxType } from "../evms/txType";
 
-const nodeURL = "https://gateway.tenderly.co/public/goerli";
+const nodeURL = "https://public.stackup.sh/api/v1/node/ethereum-sepolia";
 const HTTPSProvider = new ethers.JsonRpcProvider(nodeURL);
 
 const chainId = 5;
